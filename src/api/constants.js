@@ -1,1 +1,0 @@
-export const DEFAULT_RESTAURANT_ADMIN_ID = 1
